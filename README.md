@@ -1,2 +1,2 @@
 # BlogByAyush
-A personal space where I will shares exclusive blogs and insights.
+A personal space where I will share exclusive blogs and insights.
